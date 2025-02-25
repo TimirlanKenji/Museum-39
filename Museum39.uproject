@@ -59,6 +59,10 @@
 		{
 			"Name": "OnlineSubsystemUtils",
 			"Enabled": false
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
